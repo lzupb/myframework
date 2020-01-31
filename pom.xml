@@ -12,7 +12,7 @@
 		<spring.version>4.3.4.RELEASE</spring.version>
 		<httpcomponents.version>4.5.2</httpcomponents.version>
 		<hibernate.version>4.3.5.Final</hibernate.version>
-		<spring-data-jpa.version>1.6.0.RELEASE</spring-data-jpa.version>
+		<spring-data-jpa.version>1.11.23.RELEASE</spring-data-jpa.version>
 
 		<hibernate.version>4.3.5.Final</hibernate.version>
 		<hibernate-validator.version>5.0.3.Final</hibernate-validator.version>
